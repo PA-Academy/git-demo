@@ -3,9 +3,9 @@
 
 This is the first file in this repo
 
-##Ipsum Below
+##Website contents
 
-This is just some random text
+index.html has been added
 
 ###Closing notes
 
